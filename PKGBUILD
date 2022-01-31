@@ -1,7 +1,7 @@
 # Maintainer: Matt C <mdc028[at]bucknell[dot]edu>
 
 pkgname=gnome-apps-meta
-pkgver=1.0.0
+pkgver=1.0.1
 pkgrel=1
 pkgdesc="Metapackage of the Gnome group (excl. gnome-shell) for use in Onyx"
 arch=('any')
